@@ -1,0 +1,30 @@
+= 验证xxljob功能
+
+[%header,cols=2*]
+|===
+|功能
+|进度
+
+|调度功能
+|done
+
+|邮件告警
+|done
+
+|任务配置动态更新
+|done
+
+|分片任务
+|done
+
+|glue python
+|done in linux
+
+|调度中心API
+|
+
+|灰度上线
+|
+
+
+|===
